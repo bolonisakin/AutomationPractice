@@ -1,0 +1,1092 @@
+2020-10-27 05:18:42,921 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 05:18:42,976 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 05:18:42,977 [main] INFO AutomationPractice - Close Browser
+2020-10-27 05:19:27,983 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 05:19:28,044 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 05:19:28,045 [main] INFO AutomationPractice - Close Browser
+2020-10-27 05:25:01,483 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 05:25:01,550 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 05:25:01,550 [main] INFO AutomationPractice - Close Browser
+2020-10-27 05:47:22,627 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 05:47:22,683 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 05:47:22,683 [main] INFO AutomationPractice - Close Browser
+2020-10-27 05:49:35,416 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 05:49:35,472 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 05:49:35,473 [main] INFO AutomationPractice - Close Browser
+2020-10-27 05:51:30,589 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 05:51:35,291 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 05:51:38,896 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 05:51:38,978 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 05:51:38,994 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 05:51:38,994 [main] INFO AutomationPractice - Close Browser
+2020-10-27 05:53:24,969 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 05:53:28,553 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 05:53:32,168 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 05:53:32,234 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 05:53:32,245 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 05:53:32,245 [main] INFO AutomationPractice - Close Browser
+2020-10-27 05:55:20,649 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 05:55:24,147 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 05:55:27,454 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 05:55:27,535 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 05:55:27,550 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 05:55:27,550 [main] INFO AutomationPractice - Close Browser
+2020-10-27 05:57:28,976 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 05:57:32,488 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 05:57:35,802 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 05:57:35,869 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 05:57:35,885 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 05:57:35,886 [main] INFO AutomationPractice - Close Browser
+2020-10-27 06:00:26,834 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 06:00:30,392 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 06:00:32,823 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 06:00:32,908 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 06:00:32,920 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 06:00:32,929 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 06:00:32,929 [main] INFO AutomationPractice - Close Browser
+2020-10-27 06:01:25,443 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 06:01:29,056 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 06:01:40,001 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 06:01:40,082 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 06:01:40,097 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 06:01:40,108 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 06:01:40,109 [main] INFO AutomationPractice - Close Browser
+2020-10-27 06:04:16,173 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 06:04:19,764 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 06:04:29,214 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 06:04:29,278 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 06:04:29,287 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 06:04:29,295 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 06:04:29,296 [main] INFO AutomationPractice - Close Browser
+2020-10-27 06:06:26,830 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 06:06:30,449 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 06:06:32,811 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 06:06:32,893 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 06:06:32,917 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 06:06:42,160 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 06:06:42,161 [main] INFO AutomationPractice - Close Browser
+2020-10-27 06:06:55,169 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 06:06:58,664 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 06:07:01,117 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 06:07:01,192 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 06:07:01,221 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 06:07:19,364 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 06:07:19,364 [main] INFO AutomationPractice - Close Browser
+2020-10-27 06:09:10,920 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 06:09:14,493 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 06:09:25,273 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 06:09:25,340 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 06:09:25,369 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 06:09:37,377 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 06:09:37,377 [main] INFO AutomationPractice - Close Browser
+2020-10-27 06:10:48,876 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 06:10:52,369 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 06:11:03,444 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 06:11:03,513 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 06:11:03,548 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 06:11:05,719 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 06:11:05,720 [main] INFO AutomationPractice - Close Browser
+2020-10-27 06:11:59,766 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 06:12:03,232 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 06:12:14,505 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 06:12:14,582 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 06:12:14,610 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 06:12:29,104 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 06:12:29,104 [main] INFO AutomationPractice - Close Browser
+2020-10-27 06:26:52,967 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 06:26:56,586 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 06:27:06,692 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 06:27:06,760 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 06:27:06,793 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 06:27:18,050 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 06:27:18,050 [main] INFO AutomationPractice - Close Browser
+2020-10-27 06:47:11,857 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 06:47:15,379 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 06:47:22,382 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 06:47:22,493 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 06:47:22,560 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 06:47:30,013 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 06:47:30,013 [main] INFO AutomationPractice - Close Browser
+2020-10-27 07:05:56,442 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 07:06:00,417 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 07:06:04,395 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 07:06:04,469 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 07:06:04,506 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 07:06:07,896 [main] INFO AutomationPractice - Enter Username
+2020-10-27 07:06:08,008 [main] INFO AutomationPractice - Enter Password
+2020-10-27 07:06:08,125 [main] INFO AutomationPractice - Click on submit Button
+2020-10-27 07:06:11,171 [main] INFO AutomationPractice - login successful
+2020-10-27 07:06:11,173 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 07:06:11,174 [main] INFO AutomationPractice - Close Browser
+2020-10-27 07:09:58,816 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 07:10:02,336 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 07:10:09,175 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 07:10:09,266 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 07:10:09,310 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 07:10:14,368 [main] INFO AutomationPractice - Enter Username
+2020-10-27 07:10:14,551 [main] INFO AutomationPractice - Enter Password
+2020-10-27 07:10:14,698 [main] INFO AutomationPractice - Click on submit Button
+2020-10-27 07:10:23,181 [main] INFO AutomationPractice - login successful
+2020-10-27 07:10:23,182 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 07:10:23,182 [main] INFO AutomationPractice - Close Browser
+2020-10-27 07:10:23,870 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 07:10:27,035 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 07:10:32,729 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 07:10:32,730 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 07:10:32,754 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 07:10:36,530 [main] INFO AutomationPractice - Enter Username
+2020-10-27 07:10:36,750 [main] INFO AutomationPractice - Enter Password
+2020-10-27 07:10:36,865 [main] INFO AutomationPractice - Click on submit Button
+2020-10-27 07:11:54,870 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 07:11:54,871 [main] INFO AutomationPractice - Close Browser
+2020-10-27 07:13:15,046 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 07:13:18,530 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 07:13:22,706 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 07:13:22,775 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 07:13:22,812 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 07:13:29,007 [main] INFO AutomationPractice - Enter Username
+2020-10-27 07:13:29,106 [main] INFO AutomationPractice - Enter Password
+2020-10-27 07:13:29,202 [main] INFO AutomationPractice - Click on submit Button
+2020-10-27 07:13:32,396 [main] INFO AutomationPractice - login successful
+2020-10-27 07:13:32,396 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 07:13:32,397 [main] INFO AutomationPractice - Close Browser
+2020-10-27 07:45:17,700 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 07:45:21,337 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 07:45:25,029 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 07:45:25,112 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 07:45:26,647 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 07:45:26,648 [main] INFO AutomationPractice - Close Browser
+2020-10-27 07:45:27,384 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 07:45:30,594 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 07:45:34,260 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 07:45:34,261 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 07:45:35,664 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 07:45:35,665 [main] INFO AutomationPractice - Close Browser
+2020-10-27 07:45:36,812 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 07:45:40,004 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 07:45:43,717 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 07:45:43,718 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 07:45:45,021 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 07:45:45,022 [main] INFO AutomationPractice - Close Browser
+2020-10-27 07:45:45,706 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 07:45:48,902 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 07:45:52,169 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 07:45:52,170 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 07:45:53,006 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 07:45:53,006 [main] INFO AutomationPractice - Close Browser
+2020-10-27 07:50:01,944 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 07:50:05,507 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 07:50:09,613 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 07:50:09,699 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 07:50:10,820 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 07:50:10,820 [main] INFO AutomationPractice - Close Browser
+2020-10-27 07:50:11,488 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 07:50:14,570 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 07:50:18,446 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 07:50:18,447 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 07:50:19,882 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 07:50:19,883 [main] INFO AutomationPractice - Close Browser
+2020-10-27 07:50:20,692 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 07:50:23,870 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 07:50:27,721 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 07:50:27,722 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 07:50:28,782 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 07:50:28,782 [main] INFO AutomationPractice - Close Browser
+2020-10-27 07:50:29,459 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 07:50:32,554 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 07:50:35,818 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 07:50:35,819 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 07:50:36,764 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 07:50:36,764 [main] INFO AutomationPractice - Close Browser
+2020-10-27 07:52:37,034 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 07:52:40,549 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 07:52:44,190 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 07:52:44,252 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 07:52:46,215 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 07:52:46,216 [main] INFO AutomationPractice - Close Browser
+2020-10-27 07:52:46,864 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 07:52:50,037 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 07:52:53,636 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 07:52:53,638 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 07:52:54,826 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 07:52:54,826 [main] INFO AutomationPractice - Close Browser
+2020-10-27 07:52:55,476 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 07:52:58,634 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 07:53:03,531 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 07:53:03,533 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 07:53:06,351 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 07:53:06,351 [main] INFO AutomationPractice - Close Browser
+2020-10-27 07:53:07,026 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 07:53:10,174 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 07:53:13,556 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 07:53:13,557 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 07:54:44,546 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 07:54:44,546 [main] INFO AutomationPractice - Close Browser
+2020-10-27 07:57:00,982 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 07:57:04,495 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 07:57:07,845 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 07:57:07,914 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 07:57:07,932 [main] INFO AutomationPractice - I search for phraseT-shirts
+2020-10-27 07:57:08,050 [main] INFO AutomationPractice - I click on search icon
+2020-10-27 07:57:08,996 [main] INFO AutomationPractice - I can see numbers of results equals to1
+2020-10-27 07:57:09,037 [main] INFO AutomationPractice - I can see that every results which have been found contains phraseT-shirts
+2020-10-27 07:57:09,082 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 07:57:09,082 [main] INFO AutomationPractice - Close Browser
+2020-10-27 07:57:09,815 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 07:57:12,916 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 07:57:18,558 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 07:57:18,559 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 07:57:18,582 [main] INFO AutomationPractice - I search for phraseBlouse
+2020-10-27 07:57:18,681 [main] INFO AutomationPractice - I click on search icon
+2020-10-27 07:57:20,551 [main] INFO AutomationPractice - I can see numbers of results equals to1
+2020-10-27 07:57:20,592 [main] INFO AutomationPractice - I can see that every results which have been found contains phraseBlouse
+2020-10-27 07:57:20,619 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 07:57:20,619 [main] INFO AutomationPractice - Close Browser
+2020-10-27 07:57:21,286 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 07:57:24,368 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 07:57:27,777 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 07:57:27,779 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 07:57:27,811 [main] INFO AutomationPractice - I search for phrasePrinted Dress
+2020-10-27 07:57:27,952 [main] INFO AutomationPractice - I click on search icon
+2020-10-27 07:57:28,737 [main] INFO AutomationPractice - I can see numbers of results equals to5
+2020-10-27 07:57:28,817 [main] INFO AutomationPractice - I can see that every results which have been found contains phrasePrinted Dress
+2020-10-27 07:57:28,859 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 07:57:28,859 [main] INFO AutomationPractice - Close Browser
+2020-10-27 07:59:45,589 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 07:59:49,181 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 07:59:53,928 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 07:59:53,985 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 07:59:53,999 [main] INFO AutomationPractice - I search for phraseT-shirts
+2020-10-27 07:59:54,119 [main] INFO AutomationPractice - I click on search icon
+2020-10-27 07:59:54,851 [main] INFO AutomationPractice - I can see numbers of results equals to1
+2020-10-27 07:59:54,883 [main] INFO AutomationPractice - I can see that every results which have been found contains phraseT-shirts
+2020-10-27 07:59:54,915 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 07:59:54,915 [main] INFO AutomationPractice - Close Browser
+2020-10-27 07:59:55,589 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 07:59:58,799 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 08:00:02,951 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 08:00:02,952 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 08:00:02,966 [main] INFO AutomationPractice - I search for phraseBlouse
+2020-10-27 08:00:03,060 [main] INFO AutomationPractice - I click on search icon
+2020-10-27 08:00:04,951 [main] INFO AutomationPractice - I can see numbers of results equals to1
+2020-10-27 08:00:04,997 [main] INFO AutomationPractice - I can see that every results which have been found contains phraseBlouse
+2020-10-27 08:00:05,036 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 08:00:05,036 [main] INFO AutomationPractice - Close Browser
+2020-10-27 08:00:05,840 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 08:00:08,978 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 08:00:12,652 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 08:00:12,654 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 08:00:12,681 [main] INFO AutomationPractice - I search for phrasePrinted Dress
+2020-10-27 08:00:12,823 [main] INFO AutomationPractice - I click on search icon
+2020-10-27 08:00:15,086 [main] INFO AutomationPractice - I can see numbers of results equals to5
+2020-10-27 08:00:15,119 [main] INFO AutomationPractice - I can see that every results which have been found contains phrasePrinted Dress
+2020-10-27 08:00:15,154 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 08:00:15,154 [main] INFO AutomationPractice - Close Browser
+2020-10-27 08:00:15,831 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 08:00:18,916 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 08:00:22,393 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 08:00:22,394 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 08:00:22,406 [main] INFO AutomationPractice - I search for phrasechiffon
+2020-10-27 08:00:22,577 [main] INFO AutomationPractice - I click on search icon
+2020-10-27 08:00:23,449 [main] INFO AutomationPractice - I can see numbers of results equals to2
+2020-10-27 08:00:23,476 [main] INFO AutomationPractice - I can see that every results which have been found contains phrasechiffon
+2020-10-27 08:00:23,510 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 08:00:23,511 [main] INFO AutomationPractice - Close Browser
+2020-10-27 08:02:47,558 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 08:02:51,126 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 08:02:54,602 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 08:02:54,661 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 08:02:54,681 [main] INFO AutomationPractice - I search for phrase T-shirts
+2020-10-27 08:02:54,811 [main] INFO AutomationPractice - I click on search icon
+2020-10-27 08:02:55,568 [main] INFO AutomationPractice - I can see numbers of results equals to 1
+2020-10-27 08:02:55,597 [main] INFO AutomationPractice - I can see that every results which have been found contains phrase T-shirts
+2020-10-27 08:02:59,642 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 08:02:59,642 [main] INFO AutomationPractice - Close Browser
+2020-10-27 08:03:00,638 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 08:03:03,822 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 08:03:08,179 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 08:03:08,180 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 08:03:08,212 [main] INFO AutomationPractice - I search for phrase Blouse
+2020-10-27 08:03:08,328 [main] INFO AutomationPractice - I click on search icon
+2020-10-27 08:03:09,848 [main] INFO AutomationPractice - I can see numbers of results equals to 1
+2020-10-27 08:03:09,882 [main] INFO AutomationPractice - I can see that every results which have been found contains phrase Blouse
+2020-10-27 08:03:13,929 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 08:03:13,930 [main] INFO AutomationPractice - Close Browser
+2020-10-27 08:03:14,585 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 08:03:17,679 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 08:03:21,280 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 08:03:21,281 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 08:03:21,293 [main] INFO AutomationPractice - I search for phrase Printed Dress
+2020-10-27 08:03:21,404 [main] INFO AutomationPractice - I click on search icon
+2020-10-27 08:03:22,248 [main] INFO AutomationPractice - I can see numbers of results equals to 5
+2020-10-27 08:03:22,296 [main] INFO AutomationPractice - I can see that every results which have been found contains phrase Printed Dress
+2020-10-27 08:03:26,342 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 08:03:26,342 [main] INFO AutomationPractice - Close Browser
+2020-10-27 08:03:27,016 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 08:03:30,165 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 08:03:33,406 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 08:03:33,407 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 08:03:33,418 [main] INFO AutomationPractice - I search for phrase chiffon
+2020-10-27 08:03:33,504 [main] INFO AutomationPractice - I click on search icon
+2020-10-27 08:03:34,582 [main] INFO AutomationPractice - I can see numbers of results equals to 2
+2020-10-27 08:03:34,618 [main] INFO AutomationPractice - I can see that every results which have been found contains phrase chiffon
+2020-10-27 08:03:38,682 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 08:03:38,682 [main] INFO AutomationPractice - Close Browser
+2020-10-27 08:05:02,708 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 08:05:06,235 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 08:05:10,567 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 08:05:10,640 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 08:05:10,669 [main] INFO AutomationPractice - I search for phrase T-shirts
+2020-10-27 08:05:10,804 [main] INFO AutomationPractice - I click on search icon
+2020-10-27 08:05:11,724 [main] INFO AutomationPractice - I can see numbers of results equals to 1
+2020-10-27 08:05:11,773 [main] INFO AutomationPractice - I can see that every results which have been found contains phrase T-shirts
+2020-10-27 08:05:13,816 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 08:05:13,816 [main] INFO AutomationPractice - Close Browser
+2020-10-27 08:05:14,489 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 08:05:17,661 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 08:05:21,421 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 08:05:21,422 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 08:05:21,446 [main] INFO AutomationPractice - I search for phrase Blouse
+2020-10-27 08:05:21,549 [main] INFO AutomationPractice - I click on search icon
+2020-10-27 08:05:22,199 [main] INFO AutomationPractice - I can see numbers of results equals to 1
+2020-10-27 08:05:22,252 [main] INFO AutomationPractice - I can see that every results which have been found contains phrase Blouse
+2020-10-27 08:05:24,298 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 08:05:24,299 [main] INFO AutomationPractice - Close Browser
+2020-10-27 08:05:24,976 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 08:05:28,072 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 08:05:31,694 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 08:05:31,695 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 08:05:31,741 [main] INFO AutomationPractice - I search for phrase Printed Dress
+2020-10-27 08:05:31,900 [main] INFO AutomationPractice - I click on search icon
+2020-10-27 08:05:33,148 [main] INFO AutomationPractice - I can see numbers of results equals to 5
+2020-10-27 08:05:33,192 [main] INFO AutomationPractice - I can see that every results which have been found contains phrase Printed Dress
+2020-10-27 08:05:35,236 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 08:05:35,236 [main] INFO AutomationPractice - Close Browser
+2020-10-27 08:05:35,980 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 08:05:39,157 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 08:05:42,561 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 08:05:42,562 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 08:05:42,576 [main] INFO AutomationPractice - I search for phrase chiffon
+2020-10-27 08:05:42,697 [main] INFO AutomationPractice - I click on search icon
+2020-10-27 08:05:43,675 [main] INFO AutomationPractice - I can see numbers of results equals to 2
+2020-10-27 08:05:43,716 [main] INFO AutomationPractice - I can see that every results which have been found contains phrase chiffon
+2020-10-27 08:05:45,751 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 08:05:45,752 [main] INFO AutomationPractice - Close Browser
+2020-10-27 08:07:41,960 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 08:07:45,688 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 08:07:48,971 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 08:07:49,041 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 08:07:49,053 [main] INFO AutomationPractice - I search for phrase T-shirts
+2020-10-27 08:07:49,208 [main] INFO AutomationPractice - I click on search icon
+2020-10-27 08:07:50,617 [main] INFO AutomationPractice - I can see numbers of results equals to 1
+2020-10-27 08:07:50,651 [main] INFO AutomationPractice - I can see that every results which have been found contains phrase T-shirts
+2020-10-27 08:07:52,688 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 08:07:52,688 [main] INFO AutomationPractice - Close Browser
+2020-10-27 08:07:53,339 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 08:07:56,435 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 08:07:59,647 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 08:07:59,649 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 08:07:59,676 [main] INFO AutomationPractice - I search for phrase Blouse
+2020-10-27 08:07:59,771 [main] INFO AutomationPractice - I click on search icon
+2020-10-27 08:08:01,004 [main] INFO AutomationPractice - I can see numbers of results equals to 1
+2020-10-27 08:08:01,064 [main] INFO AutomationPractice - I can see that every results which have been found contains phrase Blouse
+2020-10-27 08:08:03,108 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 08:08:03,108 [main] INFO AutomationPractice - Close Browser
+2020-10-27 08:08:03,785 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 08:08:06,935 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 08:08:10,173 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 08:08:10,174 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 08:08:10,201 [main] INFO AutomationPractice - I search for phrase Printed Dress
+2020-10-27 08:08:10,323 [main] INFO AutomationPractice - I click on search icon
+2020-10-27 08:08:11,103 [main] INFO AutomationPractice - I can see numbers of results equals to 5
+2020-10-27 08:08:11,139 [main] INFO AutomationPractice - I can see that every results which have been found contains phrase Printed Dress
+2020-10-27 08:08:13,186 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 08:08:13,186 [main] INFO AutomationPractice - Close Browser
+2020-10-27 08:08:13,846 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 08:08:16,976 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 08:08:21,551 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 08:08:21,552 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 08:08:21,564 [main] INFO AutomationPractice - I search for phrase chiffon
+2020-10-27 08:08:21,675 [main] INFO AutomationPractice - I click on search icon
+2020-10-27 08:08:23,279 [main] INFO AutomationPractice - I can see numbers of results equals to 2
+2020-10-27 08:08:23,309 [main] INFO AutomationPractice - I can see that every results which have been found contains phrase chiffon
+2020-10-27 08:08:25,351 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 08:08:25,351 [main] INFO AutomationPractice - Close Browser
+2020-10-27 08:14:10,024 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 08:14:14,000 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 08:14:17,291 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 08:14:17,293 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 08:14:17,303 [main] INFO AutomationPractice - I search for phrase T-shirts
+2020-10-27 08:14:17,415 [main] INFO AutomationPractice - I click on search icon
+2020-10-27 08:14:18,092 [main] INFO AutomationPractice - I can see numbers of results equals to 1
+2020-10-27 08:14:18,152 [main] INFO AutomationPractice - I can see that every results which have been found contains phrase T-shirts
+2020-10-27 08:14:20,186 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 08:14:20,187 [main] INFO AutomationPractice - Close Browser
+2020-10-27 08:14:20,821 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 08:14:23,996 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 08:14:27,891 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 08:14:27,892 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 08:14:27,899 [main] INFO AutomationPractice - I search for phrase Blouse
+2020-10-27 08:14:27,976 [main] INFO AutomationPractice - I click on search icon
+2020-10-27 08:14:28,673 [main] INFO AutomationPractice - I can see numbers of results equals to 1
+2020-10-27 08:14:28,827 [main] INFO AutomationPractice - I can see that every results which have been found contains phrase Blouse
+2020-10-27 08:14:30,874 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 08:14:30,874 [main] INFO AutomationPractice - Close Browser
+2020-10-27 08:14:31,537 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 08:14:34,697 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 08:14:38,349 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 08:14:38,349 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 08:14:38,381 [main] INFO AutomationPractice - I search for phrase Printed Dress
+2020-10-27 08:14:38,461 [main] INFO AutomationPractice - I click on search icon
+2020-10-27 08:14:39,088 [main] INFO AutomationPractice - I can see numbers of results equals to 5
+2020-10-27 08:14:39,231 [main] INFO AutomationPractice - I can see that every results which have been found contains phrase Printed Dress
+2020-10-27 08:14:41,268 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 08:14:41,268 [main] INFO AutomationPractice - Close Browser
+2020-10-27 08:14:41,929 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 08:14:45,070 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 08:14:49,058 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 08:14:49,059 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 08:14:49,089 [main] INFO AutomationPractice - I search for phrase chiffon
+2020-10-27 08:14:49,246 [main] INFO AutomationPractice - I click on search icon
+2020-10-27 08:14:49,985 [main] INFO AutomationPractice - I can see numbers of results equals to 2
+2020-10-27 08:14:50,022 [main] INFO AutomationPractice - I can see that every results which have been found contains phrase chiffon
+2020-10-27 08:14:52,063 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 08:14:52,063 [main] INFO AutomationPractice - Close Browser
+2020-10-27 08:36:30,886 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 08:36:34,396 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 08:36:39,156 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 08:36:39,242 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 08:36:39,288 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 08:36:40,617 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 08:36:40,618 [main] INFO AutomationPractice - Close Browser
+2020-10-27 08:36:41,489 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 08:36:44,668 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 08:36:48,781 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 08:36:48,783 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 08:36:48,788 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 08:36:49,677 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 08:36:49,677 [main] INFO AutomationPractice - Close Browser
+2020-10-27 08:39:06,296 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 08:39:09,843 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 08:39:13,214 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 08:39:13,287 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 08:39:13,328 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 08:39:14,367 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 08:39:14,368 [main] INFO AutomationPractice - Close Browser
+2020-10-27 08:41:08,761 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 08:41:12,694 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 08:41:15,952 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 08:41:15,954 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 08:41:15,979 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 08:41:16,742 [main] INFO AutomationPractice - Enter Username
+2020-10-27 08:41:16,953 [main] INFO AutomationPractice - Enter Password
+2020-10-27 08:41:17,097 [main] INFO AutomationPractice - Click on submit Button
+2020-10-27 08:41:18,223 [main] INFO AutomationPractice - login successful
+2020-10-27 08:41:18,223 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 08:41:18,224 [main] INFO AutomationPractice - Close Browser
+2020-10-27 08:41:40,167 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 08:41:43,693 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 08:41:47,042 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 08:41:47,106 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 08:41:47,132 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 08:41:48,708 [main] INFO AutomationPractice - Enter Username
+2020-10-27 08:41:48,807 [main] INFO AutomationPractice - Enter Password
+2020-10-27 08:41:48,914 [main] INFO AutomationPractice - Click on submit Button
+2020-10-27 08:41:50,235 [main] INFO AutomationPractice - login successful
+2020-10-27 08:41:50,236 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 08:41:50,236 [main] INFO AutomationPractice - Close Browser
+2020-10-27 09:02:40,745 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 09:02:44,328 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 09:02:48,143 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 09:02:48,198 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 09:02:48,226 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 09:02:49,495 [main] INFO AutomationPractice - Enter Username
+2020-10-27 09:02:49,637 [main] INFO AutomationPractice - Enter Password
+2020-10-27 09:02:49,786 [main] INFO AutomationPractice - Click on submit Button
+2020-10-27 09:02:52,934 [main] INFO AutomationPractice - login successful
+2020-10-27 09:02:54,231 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 09:02:54,232 [main] INFO AutomationPractice - Close Browser
+2020-10-27 09:11:56,819 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 09:12:00,474 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 09:12:04,824 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 09:12:04,892 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 09:12:04,935 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 09:12:06,196 [main] INFO AutomationPractice - Enter Username
+2020-10-27 09:12:06,332 [main] INFO AutomationPractice - Enter Password
+2020-10-27 09:12:06,458 [main] INFO AutomationPractice - Click on submit Button
+2020-10-27 09:12:07,561 [main] INFO AutomationPractice - login successful
+2020-10-27 09:12:10,719 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 09:12:10,720 [main] INFO AutomationPractice - Close Browser
+2020-10-27 09:47:31,094 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 09:47:34,648 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 09:47:38,403 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 09:47:38,472 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 09:47:38,504 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 09:47:39,772 [main] INFO AutomationPractice - Enter Username
+2020-10-27 09:47:39,959 [main] INFO AutomationPractice - Enter Password
+2020-10-27 09:47:40,059 [main] INFO AutomationPractice - Click on submit Button
+2020-10-27 09:47:41,358 [main] INFO AutomationPractice - login successful
+2020-10-27 09:47:46,052 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 09:47:46,053 [main] INFO AutomationPractice - Close Browser
+2020-10-27 09:52:50,628 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 09:52:54,121 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 09:52:58,308 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 09:52:58,398 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 09:52:58,441 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 09:53:00,061 [main] INFO AutomationPractice - Enter Username
+2020-10-27 09:53:00,320 [main] INFO AutomationPractice - Enter Password
+2020-10-27 09:53:00,420 [main] INFO AutomationPractice - Click on submit Button
+2020-10-27 09:53:01,527 [main] INFO AutomationPractice - login successful
+2020-10-27 09:53:08,567 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 09:53:08,567 [main] INFO AutomationPractice - Close Browser
+2020-10-27 10:03:35,481 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 10:03:39,206 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 10:03:44,676 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 10:03:44,780 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 10:03:44,820 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 10:03:48,571 [main] INFO AutomationPractice - Enter Username
+2020-10-27 10:03:48,818 [main] INFO AutomationPractice - Enter Password
+2020-10-27 10:03:48,961 [main] INFO AutomationPractice - Click on submit Button
+2020-10-27 10:03:50,639 [main] INFO AutomationPractice - login successful
+2020-10-27 10:04:01,189 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 10:04:01,190 [main] INFO AutomationPractice - Close Browser
+2020-10-27 10:08:19,146 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 10:08:22,802 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 10:08:27,281 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 10:08:27,530 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 10:08:27,694 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 10:08:29,160 [main] INFO AutomationPractice - Enter Username
+2020-10-27 10:08:29,324 [main] INFO AutomationPractice - Enter Password
+2020-10-27 10:08:29,554 [main] INFO AutomationPractice - Click on submit Button
+2020-10-27 10:08:30,826 [main] INFO AutomationPractice - login successful
+2020-10-27 10:10:08,730 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 10:10:08,731 [main] INFO AutomationPractice - Close Browser
+2020-10-27 10:25:56,873 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 10:26:00,677 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 10:26:04,965 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 10:26:05,047 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 10:26:05,075 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 10:26:06,110 [main] INFO AutomationPractice - Enter Username
+2020-10-27 10:26:06,392 [main] INFO AutomationPractice - Enter Password
+2020-10-27 10:26:06,546 [main] INFO AutomationPractice - Click on submit Button
+2020-10-27 10:26:07,638 [main] INFO AutomationPractice - login successful
+2020-10-27 10:26:16,633 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 10:26:16,633 [main] INFO AutomationPractice - Close Browser
+2020-10-27 10:27:32,206 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 10:27:35,858 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 10:27:39,778 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 10:27:39,905 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 10:27:39,947 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 10:27:40,736 [main] INFO AutomationPractice - Enter Username
+2020-10-27 10:27:41,013 [main] INFO AutomationPractice - Enter Password
+2020-10-27 10:27:41,114 [main] INFO AutomationPractice - Click on submit Button
+2020-10-27 10:27:42,119 [main] INFO AutomationPractice - login successful
+2020-10-27 10:27:52,474 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 10:27:52,474 [main] INFO AutomationPractice - Close Browser
+2020-10-27 10:30:01,828 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 10:30:05,486 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 10:30:09,864 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 10:30:09,934 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 10:30:09,975 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 10:30:11,082 [main] INFO AutomationPractice - Enter Username
+2020-10-27 10:30:11,425 [main] INFO AutomationPractice - Enter Password
+2020-10-27 10:30:11,569 [main] INFO AutomationPractice - Click on submit Button
+2020-10-27 10:30:14,429 [main] INFO AutomationPractice - login successful
+2020-10-27 10:30:27,920 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 10:30:27,921 [main] INFO AutomationPractice - Close Browser
+2020-10-27 10:31:29,977 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 10:31:33,561 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 10:31:38,065 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 10:31:38,124 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 10:31:38,148 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 10:31:39,157 [main] INFO AutomationPractice - Enter Username
+2020-10-27 10:31:39,446 [main] INFO AutomationPractice - Enter Password
+2020-10-27 10:31:39,542 [main] INFO AutomationPractice - Click on submit Button
+2020-10-27 10:31:40,564 [main] INFO AutomationPractice - login successful
+2020-10-27 10:31:51,374 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 10:31:51,376 [main] INFO AutomationPractice - Close Browser
+2020-10-27 10:53:34,489 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 10:53:38,077 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 10:53:41,819 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 10:53:41,895 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 10:53:41,926 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 10:53:42,688 [main] INFO AutomationPractice - Enter Username
+2020-10-27 10:53:42,907 [main] INFO AutomationPractice - Enter Password
+2020-10-27 10:53:43,055 [main] INFO AutomationPractice - Click on submit Button
+2020-10-27 10:53:44,005 [main] INFO AutomationPractice - login successful
+2020-10-27 10:55:15,082 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 10:55:19,221 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 10:55:23,186 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 10:55:23,187 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 10:55:23,224 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 10:55:24,191 [main] INFO AutomationPractice - Enter Username
+2020-10-27 10:55:24,401 [main] INFO AutomationPractice - Enter Password
+2020-10-27 10:55:24,544 [main] INFO AutomationPractice - Click on submit Button
+2020-10-27 10:55:25,587 [main] INFO AutomationPractice - login successful
+2020-10-27 10:55:27,062 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 10:55:27,063 [main] INFO AutomationPractice - Close Browser
+2020-10-27 10:55:41,882 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 10:55:41,882 [main] INFO AutomationPractice - Close Browser
+2020-10-27 11:02:59,148 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 11:03:02,672 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 11:03:07,138 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 11:03:07,207 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 11:03:07,233 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 11:03:08,560 [main] INFO AutomationPractice - Enter Username
+2020-10-27 11:03:08,965 [main] INFO AutomationPractice - Enter Password
+2020-10-27 11:03:09,060 [main] INFO AutomationPractice - Click on submit Button
+2020-10-27 11:03:10,071 [main] INFO AutomationPractice - login successful
+2020-10-27 11:03:10,073 [main] INFO AutomationPractice - I am on MyAccount details page
+2020-10-27 11:03:10,131 [main] INFO AutomationPractice - Enter UsernameI click on "Women" button from sub menu
+2020-10-27 11:03:13,403 [main] INFO AutomationPractice - I click on following product "Blouse"
+2020-10-27 11:03:16,294 [main] INFO AutomationPractice - I can choose "2" quantites
+2020-10-27 11:03:16,421 [main] INFO AutomationPractice - I click on Add To Cart button
+2020-10-27 11:03:16,490 [main] INFO AutomationPractice - click on Proceed To CheckOut
+2020-10-27 11:03:18,281 [main] INFO AutomationPractice - click on Proceed To Checkout on Summarypage
+2020-10-27 11:03:19,030 [main] INFO AutomationPractice - enter the text message "TestingTesting" in adrress in text area
+2020-10-27 11:03:21,137 [main] INFO AutomationPractice - click on proceed to checkout on AddressPage
+2020-10-27 11:03:22,350 [main] INFO AutomationPractice - click the checkbox of term of condition
+2020-10-27 11:03:22,444 [main] INFO AutomationPractice - click on the proceed to checkout on Shipping page
+2020-10-27 11:03:23,778 [main] INFO AutomationPractice - choose "Pay by check" in payment method
+2020-10-27 11:03:27,143 [main] INFO AutomationPractice - I click on I Confirm My Order button
+2020-10-27 11:03:27,203 [main] INFO AutomationPractice - I can see Shopping-Cart "Order confirmation" form with valid information
+2020-10-27 11:04:27,214 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 11:04:27,215 [main] INFO AutomationPractice - Close Browser
+2020-10-27 11:05:15,262 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 11:05:18,852 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 11:05:29,165 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 11:05:29,229 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 11:05:29,251 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 11:05:30,281 [main] INFO AutomationPractice - Enter Username
+2020-10-27 11:05:30,519 [main] INFO AutomationPractice - Enter Password
+2020-10-27 11:05:30,612 [main] INFO AutomationPractice - Click on submit Button
+2020-10-27 11:05:31,637 [main] INFO AutomationPractice - login successful
+2020-10-27 11:05:31,641 [main] INFO AutomationPractice - I am on MyAccount details page
+2020-10-27 11:05:31,699 [main] INFO AutomationPractice - Enter UsernameI click on "Women" button from sub menu
+2020-10-27 11:05:34,968 [main] INFO AutomationPractice - I click on following product "Blouse"
+2020-10-27 11:05:37,837 [main] INFO AutomationPractice - I can choose "2" quantites
+2020-10-27 11:05:37,945 [main] INFO AutomationPractice - I click on Add To Cart button
+2020-10-27 11:05:38,022 [main] INFO AutomationPractice - click on Proceed To CheckOut
+2020-10-27 11:05:39,240 [main] INFO AutomationPractice - click on Proceed To Checkout on Summarypage
+2020-10-27 11:05:39,929 [main] INFO AutomationPractice - enter the text message "TestingTesting" in adrress in text area
+2020-10-27 11:05:42,032 [main] INFO AutomationPractice - click on proceed to checkout on AddressPage
+2020-10-27 11:05:42,655 [main] INFO AutomationPractice - click the checkbox of term of condition
+2020-10-27 11:05:42,746 [main] INFO AutomationPractice - click on the proceed to checkout on Shipping page
+2020-10-27 11:05:43,516 [main] INFO AutomationPractice - choose "Pay by check" in payment method
+2020-10-27 11:05:46,096 [main] INFO AutomationPractice - I click on I Confirm My Order button
+2020-10-27 11:05:49,986 [main] INFO AutomationPractice - I can see Shopping-Cart "Order confirmation" form with valid information
+2020-10-27 11:05:50,042 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 11:05:50,042 [main] INFO AutomationPractice - Close Browser
+2020-10-27 11:09:33,079 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 11:09:36,676 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 11:09:40,406 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 11:09:40,477 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 11:09:40,506 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 11:09:41,655 [main] INFO AutomationPractice - Enter Username
+2020-10-27 11:09:41,843 [main] INFO AutomationPractice - Enter Password
+2020-10-27 11:09:41,924 [main] INFO AutomationPractice - Click on submit Button
+2020-10-27 11:09:43,278 [main] INFO AutomationPractice - login successful
+2020-10-27 11:09:43,279 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 11:09:43,279 [main] INFO AutomationPractice - Close Browser
+2020-10-27 11:09:43,998 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 11:09:47,177 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 11:09:50,767 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 11:09:50,768 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 11:09:50,791 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 11:09:51,647 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 11:09:51,648 [main] INFO AutomationPractice - Close Browser
+2020-10-27 11:09:52,314 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 11:09:55,420 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 11:09:59,490 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 11:09:59,493 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 11:09:59,503 [main] INFO AutomationPractice - I search for phrase T-shirts
+2020-10-27 11:09:59,601 [main] INFO AutomationPractice - I click on search icon
+2020-10-27 11:10:01,355 [main] INFO AutomationPractice - I can see numbers of results equals to 1
+2020-10-27 11:10:01,641 [main] INFO AutomationPractice - I can see that every results which have been found contains phrase T-shirts
+2020-10-27 11:10:03,693 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 11:10:03,693 [main] INFO AutomationPractice - Close Browser
+2020-10-27 11:10:04,350 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 11:10:07,528 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 11:10:12,245 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 11:10:12,246 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 11:10:12,270 [main] INFO AutomationPractice - I search for phrase Blouse
+2020-10-27 11:10:12,348 [main] INFO AutomationPractice - I click on search icon
+2020-10-27 11:10:14,136 [main] INFO AutomationPractice - I can see numbers of results equals to 1
+2020-10-27 11:10:14,221 [main] INFO AutomationPractice - I can see that every results which have been found contains phrase Blouse
+2020-10-27 11:10:16,262 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 11:10:16,263 [main] INFO AutomationPractice - Close Browser
+2020-10-27 11:10:16,926 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 11:10:20,090 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 11:10:24,175 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 11:10:24,176 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 11:10:24,202 [main] INFO AutomationPractice - I search for phrase Printed Dress
+2020-10-27 11:10:24,311 [main] INFO AutomationPractice - I click on search icon
+2020-10-27 11:10:25,553 [main] INFO AutomationPractice - I can see numbers of results equals to 5
+2020-10-27 11:10:25,749 [main] INFO AutomationPractice - I can see that every results which have been found contains phrase Printed Dress
+2020-10-27 11:10:27,796 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 11:10:27,796 [main] INFO AutomationPractice - Close Browser
+2020-10-27 11:10:28,470 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 11:10:31,536 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 11:10:37,282 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 11:10:37,283 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 11:10:37,316 [main] INFO AutomationPractice - I search for phrase chiffon
+2020-10-27 11:10:37,405 [main] INFO AutomationPractice - I click on search icon
+2020-10-27 11:10:38,893 [main] INFO AutomationPractice - I can see numbers of results equals to 2
+2020-10-27 11:10:39,101 [main] INFO AutomationPractice - I can see that every results which have been found contains phrase chiffon
+2020-10-27 11:10:41,144 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 11:10:41,144 [main] INFO AutomationPractice - Close Browser
+2020-10-27 11:10:41,797 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 11:10:44,956 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 11:10:50,143 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 11:10:50,144 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 11:10:50,165 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 11:10:51,331 [main] INFO AutomationPractice - Enter Username
+2020-10-27 11:10:51,579 [main] INFO AutomationPractice - Enter Password
+2020-10-27 11:10:51,715 [main] INFO AutomationPractice - Click on submit Button
+2020-10-27 11:10:54,784 [main] INFO AutomationPractice - login successful
+2020-10-27 11:10:54,787 [main] INFO AutomationPractice - I am on MyAccount details page
+2020-10-27 11:10:54,836 [main] INFO AutomationPractice - Enter UsernameI click on "Women" button from sub menu
+2020-10-27 11:10:58,258 [main] INFO AutomationPractice - I click on following product "Blouse"
+2020-10-27 11:11:01,756 [main] INFO AutomationPractice - I can choose "2" quantites
+2020-10-27 11:11:01,864 [main] INFO AutomationPractice - I click on Add To Cart button
+2020-10-27 11:11:01,935 [main] INFO AutomationPractice - click on Proceed To CheckOut
+2020-10-27 11:11:03,205 [main] INFO AutomationPractice - click on Proceed To Checkout on Summarypage
+2020-10-27 11:11:05,160 [main] INFO AutomationPractice - enter the text message "TestingTesting" in adrress in text area
+2020-10-27 11:11:07,256 [main] INFO AutomationPractice - click on proceed to checkout on AddressPage
+2020-10-27 11:11:08,446 [main] INFO AutomationPractice - click the checkbox of term of condition
+2020-10-27 11:11:08,544 [main] INFO AutomationPractice - click on the proceed to checkout on Shipping page
+2020-10-27 11:11:09,529 [main] INFO AutomationPractice - choose "Pay by check" in payment method
+2020-10-27 11:11:12,194 [main] INFO AutomationPractice - I click on I Confirm My Order button
+2020-10-27 11:11:15,681 [main] INFO AutomationPractice - I can see Shopping-Cart "Order confirmation" form with valid information
+2020-10-27 11:11:15,734 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 11:11:15,734 [main] INFO AutomationPractice - Close Browser
+2020-10-27 11:14:27,113 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 11:14:30,764 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 11:14:34,078 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 11:14:34,129 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 11:14:34,155 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 11:14:34,934 [main] INFO AutomationPractice - Enter Username
+2020-10-27 11:15:08,548 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 11:15:12,382 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 11:15:18,407 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 11:15:18,500 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 11:15:18,547 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 11:15:20,099 [main] INFO AutomationPractice - Enter Username
+2020-10-27 11:15:20,323 [main] INFO AutomationPractice - Enter Password
+2020-10-27 11:15:20,446 [main] INFO AutomationPractice - Click on submit Button
+2020-10-27 11:15:22,019 [main] INFO AutomationPractice - login successful
+2020-10-27 11:15:22,020 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 11:15:22,020 [main] INFO AutomationPractice - Close Browser
+2020-10-27 11:15:22,698 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 11:15:25,860 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 11:15:29,699 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 11:15:29,700 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 11:15:29,719 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 11:15:31,354 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 11:15:31,354 [main] INFO AutomationPractice - Close Browser
+2020-10-27 11:15:32,005 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 11:15:35,090 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 11:15:39,214 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 11:15:39,215 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 11:15:39,243 [main] INFO AutomationPractice - I search for phrase T-shirts
+2020-10-27 11:15:39,344 [main] INFO AutomationPractice - I click on search icon
+2020-10-27 11:15:40,089 [main] INFO AutomationPractice - I can see numbers of results equals to 1
+2020-10-27 11:15:40,262 [main] INFO AutomationPractice - I can see that every results which have been found contains phrase T-shirts
+2020-10-27 11:15:42,311 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 11:15:42,311 [main] INFO AutomationPractice - Close Browser
+2020-10-27 11:15:42,961 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 11:15:46,167 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 11:15:49,976 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 11:15:49,978 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 11:15:49,990 [main] INFO AutomationPractice - I search for phrase Blouse
+2020-10-27 11:15:50,059 [main] INFO AutomationPractice - I click on search icon
+2020-10-27 11:15:50,673 [main] INFO AutomationPractice - I can see numbers of results equals to 1
+2020-10-27 11:15:50,809 [main] INFO AutomationPractice - I can see that every results which have been found contains phrase Blouse
+2020-10-27 11:15:52,847 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 11:15:52,847 [main] INFO AutomationPractice - Close Browser
+2020-10-27 11:15:53,488 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 11:15:56,625 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 11:16:00,666 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 11:16:00,667 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 11:16:00,702 [main] INFO AutomationPractice - I search for phrase Printed Dress
+2020-10-27 11:16:00,842 [main] INFO AutomationPractice - I click on search icon
+2020-10-27 11:16:03,136 [main] INFO AutomationPractice - I can see numbers of results equals to 5
+2020-10-27 11:16:03,275 [main] INFO AutomationPractice - I can see that every results which have been found contains phrase Printed Dress
+2020-10-27 11:16:05,317 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 11:16:05,318 [main] INFO AutomationPractice - Close Browser
+2020-10-27 11:16:05,995 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 11:16:09,077 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 11:16:13,628 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 11:16:13,630 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 11:16:13,644 [main] INFO AutomationPractice - I search for phrase chiffon
+2020-10-27 11:16:13,760 [main] INFO AutomationPractice - I click on search icon
+2020-10-27 11:16:15,631 [main] INFO AutomationPractice - I can see numbers of results equals to 2
+2020-10-27 11:16:15,742 [main] INFO AutomationPractice - I can see that every results which have been found contains phrase chiffon
+2020-10-27 11:16:17,783 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 11:16:17,784 [main] INFO AutomationPractice - Close Browser
+2020-10-27 11:16:18,448 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 11:16:21,552 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 11:16:25,309 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 11:16:25,311 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 11:16:25,319 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 11:16:26,872 [main] INFO AutomationPractice - Enter Username
+2020-10-27 11:16:27,102 [main] INFO AutomationPractice - Enter Password
+2020-10-27 11:16:27,206 [main] INFO AutomationPractice - Click on submit Button
+2020-10-27 11:16:28,248 [main] INFO AutomationPractice - login successful
+2020-10-27 11:16:28,252 [main] INFO AutomationPractice - I am on MyAccount details page
+2020-10-27 11:16:28,329 [main] INFO AutomationPractice - Enter UsernameI click on "Women" button from sub menu
+2020-10-27 11:16:31,557 [main] INFO AutomationPractice - I click on following product "Blouse"
+2020-10-27 11:16:34,370 [main] INFO AutomationPractice - I can choose "2" quantites
+2020-10-27 11:16:34,479 [main] INFO AutomationPractice - I click on Add To Cart button
+2020-10-27 11:16:34,546 [main] INFO AutomationPractice - click on Proceed To CheckOut
+2020-10-27 11:16:35,816 [main] INFO AutomationPractice - click on Proceed To Checkout on Summarypage
+2020-10-27 11:16:36,994 [main] INFO AutomationPractice - enter the text message "TestingTesting" in adrress in text area
+2020-10-27 11:16:39,098 [main] INFO AutomationPractice - click on proceed to checkout on AddressPage
+2020-10-27 11:16:39,896 [main] INFO AutomationPractice - click the checkbox of term of condition
+2020-10-27 11:16:39,990 [main] INFO AutomationPractice - click on the proceed to checkout on Shipping page
+2020-10-27 11:16:40,662 [main] INFO AutomationPractice - choose "Pay by check" in payment method
+2020-10-27 11:16:43,918 [main] INFO AutomationPractice - I click on I Confirm My Order button
+2020-10-27 11:16:47,664 [main] INFO AutomationPractice - I can see Shopping-Cart "Order confirmation" form with valid information
+2020-10-27 11:16:47,714 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 11:16:47,715 [main] INFO AutomationPractice - Close Browser
+2020-10-27 11:41:52,875 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 11:41:56,572 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 11:42:00,560 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 11:42:00,640 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 11:42:00,675 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 11:42:01,523 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 11:42:01,524 [main] INFO AutomationPractice - Close Browser
+2020-10-27 11:50:00,597 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 11:50:04,162 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 11:50:09,084 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 11:50:09,166 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 11:50:09,201 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 11:50:13,458 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 11:50:13,459 [main] INFO AutomationPractice - Close Browser
+2020-10-27 11:53:24,549 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 11:53:28,136 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 11:53:31,797 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 11:53:31,877 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 11:53:31,911 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 11:53:33,014 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 11:53:33,015 [main] INFO AutomationPractice - Close Browser
+2020-10-27 11:59:50,257 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 11:59:53,899 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 11:59:58,999 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 11:59:59,084 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 11:59:59,125 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 12:00:05,765 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 12:00:05,765 [main] INFO AutomationPractice - Close Browser
+2020-10-27 12:19:52,655 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 12:19:56,318 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 12:20:00,576 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 12:20:00,681 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 12:20:00,723 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 12:21:37,078 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 12:21:37,079 [main] INFO AutomationPractice - Close Browser
+2020-10-27 12:24:00,810 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 12:24:04,430 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 12:24:08,287 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 12:24:08,365 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 12:24:08,396 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 12:25:44,167 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 12:25:46,331 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 12:25:46,331 [main] INFO AutomationPractice - Close Browser
+2020-10-27 12:25:47,718 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 12:25:52,275 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 12:25:52,351 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 12:25:52,374 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 12:27:27,999 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 12:27:28,000 [main] INFO AutomationPractice - Close Browser
+2020-10-27 12:30:41,072 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 12:30:44,593 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 12:30:48,444 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 12:30:48,515 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 12:30:48,550 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 12:32:24,200 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 12:32:24,200 [main] INFO AutomationPractice - Close Browser
+2020-10-27 12:33:14,002 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 12:33:17,629 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 12:33:21,373 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 12:33:21,457 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 12:33:21,499 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 12:34:46,200 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 12:34:49,760 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 12:34:53,547 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 12:34:53,641 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 12:34:53,683 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 12:34:57,078 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 12:34:57,079 [main] INFO AutomationPractice - Close Browser
+2020-10-27 12:36:29,405 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 12:36:29,405 [main] INFO AutomationPractice - Close Browser
+2020-10-27 12:37:49,367 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 12:37:52,974 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 12:37:57,033 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 12:37:57,097 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 12:37:57,129 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 12:38:03,241 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 12:38:03,242 [main] INFO AutomationPractice - Close Browser
+2020-10-27 12:54:13,315 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 12:54:17,078 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 12:54:20,951 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 12:54:21,005 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 12:54:21,027 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 12:54:24,535 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 12:54:24,536 [main] INFO AutomationPractice - Close Browser
+2020-10-27 12:56:32,882 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 12:56:36,384 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 12:56:40,552 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 12:56:40,631 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 12:56:40,668 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 12:56:44,585 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 12:56:44,586 [main] INFO AutomationPractice - Close Browser
+2020-10-27 12:57:27,365 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 12:57:30,996 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 12:57:35,258 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 12:57:35,328 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 12:57:35,354 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 12:57:40,709 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 12:57:40,710 [main] INFO AutomationPractice - Close Browser
+2020-10-27 13:01:41,177 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 13:01:44,710 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 13:01:48,317 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 13:01:48,379 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 13:01:48,400 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 13:01:53,061 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 13:01:53,062 [main] INFO AutomationPractice - Close Browser
+2020-10-27 13:02:54,218 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 13:02:57,850 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 13:03:08,168 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 13:03:08,255 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 13:03:08,300 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 13:03:27,774 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 13:03:27,775 [main] INFO AutomationPractice - Close Browser
+2020-10-27 13:05:30,052 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 13:05:33,585 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 13:05:37,914 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 13:05:37,983 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 13:05:38,009 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 13:06:01,750 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 13:06:01,751 [main] INFO AutomationPractice - Close Browser
+2020-10-27 13:07:24,767 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 13:07:28,333 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 13:07:32,118 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 13:07:32,175 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 13:07:32,195 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 13:07:47,065 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 13:07:47,065 [main] INFO AutomationPractice - Close Browser
+2020-10-27 13:09:40,162 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 13:09:43,780 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 13:09:51,084 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 13:09:51,169 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 13:09:51,207 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 13:10:03,958 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 13:10:03,958 [main] INFO AutomationPractice - Close Browser
+2020-10-27 13:10:24,294 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 13:10:27,846 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 13:10:31,805 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 13:10:31,890 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 13:10:31,927 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 13:10:41,708 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 13:10:41,708 [main] INFO AutomationPractice - Close Browser
+2020-10-27 13:13:34,543 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 13:13:38,185 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 13:13:42,829 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 13:13:42,889 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 13:13:42,921 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 13:15:16,457 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 13:15:16,458 [main] INFO AutomationPractice - Close Browser
+2020-10-27 13:53:28,563 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 13:53:32,511 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 13:53:36,666 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 13:53:36,796 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 13:53:36,853 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 13:53:45,259 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 13:53:45,260 [main] INFO AutomationPractice - Close Browser
+2020-10-27 13:54:35,551 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 13:54:39,482 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 13:55:12,033 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 13:55:12,033 [main] INFO AutomationPractice - Close Browser
+2020-10-27 13:55:33,521 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 13:55:37,380 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 13:55:41,087 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 13:55:41,155 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 13:55:41,189 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 13:55:41,936 [main] INFO AutomationPractice - Enter Username
+2020-10-27 13:55:42,139 [main] INFO AutomationPractice - Enter Password
+2020-10-27 13:55:42,254 [main] INFO AutomationPractice - Click on submit Button
+2020-10-27 13:55:43,267 [main] INFO AutomationPractice - login successful
+2020-10-27 13:55:43,268 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 13:55:43,269 [main] INFO AutomationPractice - Close Browser
+2020-10-27 13:55:43,940 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 13:55:47,116 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 13:55:50,652 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 13:55:50,652 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 13:55:50,672 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 13:55:59,296 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 13:55:59,296 [main] INFO AutomationPractice - Close Browser
+2020-10-27 13:55:59,983 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 13:56:03,119 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 13:56:06,840 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 13:56:06,842 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 13:56:06,895 [main] INFO AutomationPractice - I search for phrase T-shirts
+2020-10-27 13:56:07,051 [main] INFO AutomationPractice - I click on search icon
+2020-10-27 13:56:07,881 [main] INFO AutomationPractice - I can see numbers of results equals to 1
+2020-10-27 13:56:08,053 [main] INFO AutomationPractice - I can see that every results which have been found contains phrase T-shirts
+2020-10-27 13:56:10,103 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 13:56:10,103 [main] INFO AutomationPractice - Close Browser
+2020-10-27 13:56:10,795 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 13:56:13,920 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 13:56:17,834 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 13:56:17,835 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 13:56:17,870 [main] INFO AutomationPractice - I search for phrase Blouse
+2020-10-27 13:56:17,982 [main] INFO AutomationPractice - I click on search icon
+2020-10-27 13:56:18,783 [main] INFO AutomationPractice - I can see numbers of results equals to 1
+2020-10-27 13:56:18,905 [main] INFO AutomationPractice - I can see that every results which have been found contains phrase Blouse
+2020-10-27 13:56:20,945 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 13:56:20,946 [main] INFO AutomationPractice - Close Browser
+2020-10-27 13:56:21,607 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 13:56:24,790 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 13:56:28,555 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 13:56:28,556 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 13:56:28,586 [main] INFO AutomationPractice - I search for phrase Printed Dress
+2020-10-27 13:56:28,674 [main] INFO AutomationPractice - I click on search icon
+2020-10-27 13:56:29,303 [main] INFO AutomationPractice - I can see numbers of results equals to 5
+2020-10-27 13:56:29,514 [main] INFO AutomationPractice - I can see that every results which have been found contains phrase Printed Dress
+2020-10-27 13:56:31,552 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 13:56:31,552 [main] INFO AutomationPractice - Close Browser
+2020-10-27 13:56:32,199 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 13:56:35,363 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 13:56:39,062 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 13:56:39,063 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 13:56:39,101 [main] INFO AutomationPractice - I search for phrase chiffon
+2020-10-27 13:56:39,212 [main] INFO AutomationPractice - I click on search icon
+2020-10-27 13:56:40,198 [main] INFO AutomationPractice - I can see numbers of results equals to 2
+2020-10-27 13:56:40,238 [main] INFO AutomationPractice - I can see that every results which have been found contains phrase chiffon
+2020-10-27 13:56:42,285 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 13:56:42,285 [main] INFO AutomationPractice - Close Browser
+2020-10-27 13:56:42,948 [main] INFO AutomationPractice - Starting with Browser Set Up
+2020-10-27 13:56:46,106 [main] INFO AutomationPractice - Identified the browser as chrome. Launching the browser in headless false
+2020-10-27 13:56:49,981 [main] INFO AutomationPractice - Launched the Change2TestAutomation Application
+2020-10-27 13:56:49,982 [main] INFO AutomationPractice - verify you are on Homepage
+2020-10-27 13:56:49,991 [main] INFO AutomationPractice - click on Sign in button
+2020-10-27 13:56:50,813 [main] INFO AutomationPractice - Enter Username
+2020-10-27 13:56:51,062 [main] INFO AutomationPractice - Enter Password
+2020-10-27 13:56:51,176 [main] INFO AutomationPractice - Click on submit Button
+2020-10-27 13:56:52,477 [main] INFO AutomationPractice - login successful
+2020-10-27 13:56:52,479 [main] INFO AutomationPractice - I am on MyAccount details page
+2020-10-27 13:56:52,520 [main] INFO AutomationPractice - Enter UsernameI click on "Women" button from sub menu
+2020-10-27 13:56:55,535 [main] INFO AutomationPractice - I click on following product "Blouse"
+2020-10-27 13:56:58,509 [main] INFO AutomationPractice - I can choose "2" quantites
+2020-10-27 13:56:58,620 [main] INFO AutomationPractice - I click on Add To Cart button
+2020-10-27 13:56:58,696 [main] INFO AutomationPractice - click on Proceed To CheckOut
+2020-10-27 13:57:00,015 [main] INFO AutomationPractice - click on Proceed To Checkout on Summarypage
+2020-10-27 13:57:00,678 [main] INFO AutomationPractice - enter the text message "TestingTesting" in adrress in text area
+2020-10-27 13:57:02,805 [main] INFO AutomationPractice - click on proceed to checkout on AddressPage
+2020-10-27 13:57:03,516 [main] INFO AutomationPractice - click the checkbox of term of condition
+2020-10-27 13:57:03,606 [main] INFO AutomationPractice - click on the proceed to checkout on Shipping page
+2020-10-27 13:57:04,758 [main] INFO AutomationPractice - choose "Pay by check" in payment method
+2020-10-27 13:57:08,084 [main] INFO AutomationPractice - I click on I Confirm My Order button
+2020-10-27 13:57:11,745 [main] INFO AutomationPractice - I can see Shopping-Cart "Order confirmation" form with valid information
+2020-10-27 13:57:11,816 [main] INFO AutomationPractice - Take Screen shot of Login Page
+2020-10-27 13:57:11,816 [main] INFO AutomationPractice - Close Browser
