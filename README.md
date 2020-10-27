@@ -34,12 +34,16 @@ You can generate a report using one of the following method.
 
 Both Reports will be generated into target\cucumber-reports\advanced-reports. Web server with results will start appearing in your default browser. Report will look like this
 
+![ScreenShot](https://github.com/bolonisakin/AutomationPractice/blob/master/AutomationPractice%20Project%20Cucumber%20Report.png)
+
+![ScreenShot](https://github.com/bolonisakin/AutomationPractice/blob/master/AutomationPractice%20Project%20Extent%20Report.png)
+
 ### Develop automation scripts using BDD approach - Cucumber-Java
 
 Tests are written in the Cucumber framework using the Gherkin Syntax. More about Gherkin & Cucumber can be found at https://cucumber.io/docs/reference A typical test will look similar to this:
 
 ```
-      Feature: Validate The  Appliation
+      Feature: Validate The  Application
 
       Scenario Outline: Validate The Login Opeation of Automation Practice
 
@@ -67,5 +71,6 @@ Tests are written in the Cucumber framework using the Gherkin Syntax. More about
 - I will add more reusable functions like utilities, waits and listeners to the code
 - I will set the framework to take screenshots of steps that fail during test execution
 - I will add negative test scenarios for the feature files 
+- I will proofread all my documents to make sure there are no typos and all reads correctly
 
 
